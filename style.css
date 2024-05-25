@@ -102,7 +102,7 @@ h1 {
   font-size: 1.2rem;
   text-align: center;
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
 }
 .first-two {
   display: flex;
@@ -110,7 +110,34 @@ h1 {
   align-items: center;
   justify-content: space-evenly;
 }
-.icon-left {
-  justify-content: center;
-  align-items: center;
+.icon-left-first {
+  text-align: center;
+}
+.icon-right-first {
+  text-align: center;
+}
+h4 {
+  font-size: 1.25rem;
+}
+.paragraph-text {
+  margin-bottom: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: rgb(120, 144, 156);
+  text-align: center;
+  font-size: 1.1rem;
+}
+.icon-left-first .material-symbols-outlined {
+  color: #b400d3;
+  font-size: 50px;
+  border-radius: 50%;
+  padding: 1.5rem;
+  background: #160019;
+}
+.icon-right-first .material-symbols-outlined {
+  font-size: 50px;
+  color: rgb(0, 230, 118);
+  border-radius: 50%;
+  padding: 1.5rem;
+  background: #00170c;
 }
