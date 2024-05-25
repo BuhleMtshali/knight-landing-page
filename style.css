@@ -40,7 +40,7 @@ li {
 }
 h1 {
   text-align: center;
-  padding-top: 70px;
+  padding-top: 100px;
   font-size: 3rem;
   font-weight: 800;
 }
@@ -50,10 +50,21 @@ h1 {
   font-weight: 500;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 .first-page-button {
   display: block;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+  padding: 15px 20px;
+  border-radius: 6px;
+  color: white;
+  background-color: #b400d3;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 500;
+  box-shadow: rgba(213, 0, 249, 0.3) 0px 8px 16px;
+  transition: all 0.2s ease-out 0s;
+  cursor: pointer;
 }
