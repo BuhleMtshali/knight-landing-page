@@ -41,7 +41,9 @@ li {
 h1 {
   text-align: center;
   padding-top: 50px;
+  font-size: 3rem;
 }
-h3 {
+.brief {
   text-align: center;
+  font-size: 1.3rem;
 }
