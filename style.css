@@ -163,7 +163,7 @@ h4 {
 }
 .text-pic {
   display: flex;
-
+  margin-top: 96px;
   justify-content: space-evenly;
 }
 .text {
@@ -220,9 +220,12 @@ img {
 }
 .text-next {
   font-size: 2.5rem;
-  margin-bottom: 1rem;
-
+  margin-bottom: 3rem;
+  line-height: 1.6;
   font-weight: 700;
-  line-height: 1.5;
+
   color: #ffffff;
+}
+.text-paragraph {
+  font-size: 1.2rem;
 }
