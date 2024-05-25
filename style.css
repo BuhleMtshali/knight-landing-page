@@ -248,7 +248,21 @@ img {
 }
 .slide-2 {
   background: #11171a;
+  padding-top: 9rem;
 }
 .price-heading {
   margin-top: 0;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 2.5rem;
+  line-height: 1.5rem;
+  font-weight: 800;
+}
+.price-text {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #eceff1;
+  text-align: center;
 }
