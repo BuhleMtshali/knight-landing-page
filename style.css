@@ -364,3 +364,20 @@ img {
   text-align: center;
   cursor: pointer;
 }
+.text-grids-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+.text-grid-two {
+  color: #78909c;
+}
+.list-grid-two {
+  color: #78909c;
+}
+.top {
+  color: #78909c;
+}
+hr {
+  width: 50%;
+  color: #b400d3;
+}
