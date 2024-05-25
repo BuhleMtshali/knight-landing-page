@@ -3,11 +3,17 @@ body {
   color: white;
   margin: 0;
 }
+nav {
+  position: sticky;
+}
 ul {
   list-style: none;
   display: flex;
   justify-content: space-between;
   margin: 0;
+
+  position: -webkit-sticky;
+  position: sticky;
 }
 li {
   float: left;
@@ -83,4 +89,8 @@ h1 {
   color: #b400d3;
   font-weight: 600;
   border: none;
+}
+.heading-p2 {
+  margin: 0;
+  padding-top: 50px;
 }
