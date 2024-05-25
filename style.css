@@ -116,6 +116,12 @@ h1 {
 .icon-right-first {
   text-align: center;
 }
+.icon-left-second {
+  text-align: center;
+}
+.icon-right-second {
+  text-align: center;
+}
 h4 {
   font-size: 1.25rem;
 }
@@ -140,4 +146,18 @@ h4 {
   border-radius: 50%;
   padding: 1.5rem;
   background: #00170c;
+}
+.icon-left-second .material-symbols-outlined {
+  font-size: 50px;
+  border-radius: 50%;
+  padding: 1.5rem;
+  color: #ff1744;
+  background: #1a0207;
+}
+.icon-right-second .material-symbols-outlined {
+  font-size: 50px;
+  border-radius: 50%;
+  padding: 1.5rem;
+  color: #00e5ff;
+  background: #00171a;
 }
