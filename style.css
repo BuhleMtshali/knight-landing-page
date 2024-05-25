@@ -266,3 +266,40 @@ img {
   color: #eceff1;
   text-align: center;
 }
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  padding: 2.25rem 2rem;
+}
+.card-body {
+  padding: 2.25rem;
+  background: #263238;
+  padding-top: 1rem;
+  margin-bottom: 0.75rem;
+  border-radius: 15px;
+}
+.card-title-one {
+  line-height: 1.5;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 0;
+}
+.price-card-one {
+  color: #1de9b6;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.card-text-one {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: #78909c;
+}
+.card-paragraph-one {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
